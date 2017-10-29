@@ -1,0 +1,5 @@
+#homescreen {
+  height: 60vh;
+  background-image: url("lockscreen1.jpg");
+  background-size: cover;
+}

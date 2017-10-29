@@ -1,0 +1,5 @@
+#lockscreen {
+  height: 100%;
+  background-image: url("lockscreen.jpg");
+  background-size: cover;
+}

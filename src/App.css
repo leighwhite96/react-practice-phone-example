@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+#container {
+  width: 25vw;
+  height: 70vh;
+  margin: 10vh auto;
+  border: solid black 30px;
+  border-bottom: solid black 60px;
+  border-radius: 5%;
+}
